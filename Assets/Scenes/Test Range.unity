@@ -4656,8 +4656,8 @@ MonoBehaviour:
   UpperLimit: -40
   BottomLimit: 70
   MouseSensitivity: 20
-  JumpFactor: 148
-  Dis2Ground: 0.9
+  JumpFactor: 246
+  Dis2Ground: 3.48
   GroundCheck:
     serializedVersion: 2
     m_Bits: 1
